@@ -40,9 +40,10 @@ body {
     text-align: center;
 }
 
-.texts_container .qr_title_container p{
+.texts_container .qr_title_container{
     font-weight: 700;   
     font-size: 20px;
+    margin-bottom: 1rem;
 }
 
 .texts_container .qr_subtitle_cotnainer{
